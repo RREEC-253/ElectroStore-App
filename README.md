@@ -25,8 +25,6 @@ Incluye funciones para **clientes** y un **panel administrativo** para la gesti�
 ###  **Funciones para Administradores**
 - Panel administrativo integrado en la misma app.
 - Gestión de productos (CRUD).
-- Gestión de categorías.
-- Gestión de usuarios.
 - Control y actualización del estado de pedidos.
 - Vista de reportes básicos.
 
